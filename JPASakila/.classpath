@@ -13,5 +13,6 @@
 	<classpathentry kind="lib" path="/Librerie/EclipseLink 2.5.2/eclipselink/jlib/moxy/javax.xml.stream_1.0.1.v201004272200.jar"/>
 	<classpathentry kind="lib" path="/Librerie/EclipseLink 2.5.2/eclipselink/jlib/eclipselink.jar"/>
 	<classpathentry kind="lib" path="/Librerie/mysql-connector-java-5.1.40-bin.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
